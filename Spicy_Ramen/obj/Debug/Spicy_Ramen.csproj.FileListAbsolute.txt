@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\Spicy_Ramen\Spicy_Ramen\bin\Debug\Spicy_Ramen.exe.config
+C:\ElevenFiftyProjects\Spicy_Ramen\Spicy_Ramen\bin\Debug\Spicy_Ramen.exe
+C:\ElevenFiftyProjects\Spicy_Ramen\Spicy_Ramen\bin\Debug\Spicy_Ramen.pdb
+C:\ElevenFiftyProjects\Spicy_Ramen\Spicy_Ramen\obj\Debug\Spicy_Ramen.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Spicy_Ramen\Spicy_Ramen\obj\Debug\Spicy_Ramen.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Spicy_Ramen\Spicy_Ramen\obj\Debug\Spicy_Ramen.exe
+C:\ElevenFiftyProjects\Spicy_Ramen\Spicy_Ramen\obj\Debug\Spicy_Ramen.pdb
