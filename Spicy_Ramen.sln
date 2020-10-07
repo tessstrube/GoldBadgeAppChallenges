@@ -19,13 +19,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SpicyBadges", "SpicyBadges"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SpicyRamenAtLaw", "SpicyRamenAtLaw", "{2D3A1AB6-9354-4A45-8B7F-6BDDB87E22D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spicy_Ramen_At_Law", "..\Spicy_Ramen_At_Law\Spicy_Ramen_At_Law\Spicy_Ramen_At_Law.csproj", "{AF12E7C1-439C-4052-B0C9-319994474E2A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spicy_Ramen_At_Law", "Spicy_Ramen_At_Law\Spicy_Ramen_At_Law\Spicy_Ramen_At_Law.csproj", "{AF12E7C1-439C-4052-B0C9-319994474E2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spicy_Claims_Tests", "..\Spicy_Ramen_At_Law\Spicy_Claims_Tests\Spicy_Claims_Tests.csproj", "{BB260ED2-D13E-452B-955B-4DBA07F42C31}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spicy_Claims_Tests", "Spicy_Ramen_At_Law\Spicy_Claims_Tests\Spicy_Claims_Tests.csproj", "{BB260ED2-D13E-452B-955B-4DBA07F42C31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spicy_Badges", "..\Spicy_Badges\Spicy_Badges\Spicy_Badges.csproj", "{46FEF6AD-5596-4AF9-AC4D-CCA368DA4850}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spicy_Badges", "Spicy_Badges\Spicy_Badges\Spicy_Badges.csproj", "{46FEF6AD-5596-4AF9-AC4D-CCA368DA4850}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spicy_Badges_Repo_Tests", "..\Spicy_Badges\Spicy_Badges_Repo_Tests\Spicy_Badges_Repo_Tests.csproj", "{94BFB7BF-ACB5-4F32-AA5C-CFD356CE1AA9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spicy_Badges_Repo_Tests", "Spicy_Badges\Spicy_Badges_Repo_Tests\Spicy_Badges_Repo_Tests.csproj", "{94BFB7BF-ACB5-4F32-AA5C-CFD356CE1AA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\Spicy_Badges\Spicy_Badges\obj\Debug\Spicy_Badges.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Spicy_Badges\Spicy_Badges\bin\Debug\Spicy_Badges.exe.config
+C:\ElevenFiftyProjects\Spicy_Badges\Spicy_Badges\bin\Debug\Spicy_Badges.exe
+C:\ElevenFiftyProjects\Spicy_Badges\Spicy_Badges\bin\Debug\Spicy_Badges.pdb
+C:\ElevenFiftyProjects\Spicy_Badges\Spicy_Badges\obj\Debug\Spicy_Badges.exe
+C:\ElevenFiftyProjects\Spicy_Badges\Spicy_Badges\obj\Debug\Spicy_Badges.pdb

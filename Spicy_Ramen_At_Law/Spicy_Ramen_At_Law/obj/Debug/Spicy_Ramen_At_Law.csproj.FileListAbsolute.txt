@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\Spicy_Ramen_At_Law\Spicy_Ramen_At_Law\bin\Debug\Spicy_Ramen_At_Law.exe.config
+C:\ElevenFiftyProjects\Spicy_Ramen_At_Law\Spicy_Ramen_At_Law\bin\Debug\Spicy_Ramen_At_Law.exe
+C:\ElevenFiftyProjects\Spicy_Ramen_At_Law\Spicy_Ramen_At_Law\bin\Debug\Spicy_Ramen_At_Law.pdb
+C:\ElevenFiftyProjects\Spicy_Ramen_At_Law\Spicy_Ramen_At_Law\obj\Debug\Spicy_Ramen_At_Law.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Spicy_Ramen_At_Law\Spicy_Ramen_At_Law\obj\Debug\Spicy_Ramen_At_Law.exe
+C:\ElevenFiftyProjects\Spicy_Ramen_At_Law\Spicy_Ramen_At_Law\obj\Debug\Spicy_Ramen_At_Law.pdb
